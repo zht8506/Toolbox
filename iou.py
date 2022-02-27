@@ -1,3 +1,4 @@
+```python
 ### 本文件是IOU计算代码
 
 # box1=(1,1,3,3)
@@ -24,3 +25,4 @@ area_box2 = (x4-x3+1)*(y4-y3+1)
 iou = interArea/(area_box1+area_box2-interArea)
 print(iou)
 print(interArea,area_box1,area_box2)
+```
