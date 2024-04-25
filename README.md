@@ -1,8 +1,8 @@
-# toolbox
+# Toolbox
 
 * iou.py  
 
-计算IOU的代码
+The code of calculating IOU.
 * nms.py
 
-nms非极大值抑制代码
+The code of implementing NMS.
