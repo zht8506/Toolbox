@@ -9,4 +9,4 @@ The code of implementing NMS.
 
 * download_huggingface.py
 
-download files from huggingface using python
+Downloading files from huggingface using python
