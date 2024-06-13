@@ -10,3 +10,7 @@ The code of implementing NMS.
 * download_huggingface.py
 
 Downloading files from huggingface using python
+
+* infer_example.py
+
+An example of using the trained model to infer a dataset.
