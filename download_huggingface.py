@@ -10,5 +10,6 @@ snapshot_download(
   # repo_type="dataset",
   local_dir="/xxx/local_dir", # download files to here
   local_dir_use_symlinks=False, # avoid download to cache
+  allow_patterns = ["xxx_folder/*"], # only download files from xxx_folder
   max_workers=8
 )
