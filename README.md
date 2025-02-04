@@ -14,3 +14,7 @@ Downloading files from huggingface using python
 * infer_example.py
 
 An example of using the trained model to infer a dataset.
+
+* xml2coco.py
+
+convert the yolo_style xml detection annotation to coco_style json annotation
