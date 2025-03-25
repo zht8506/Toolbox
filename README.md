@@ -18,3 +18,7 @@ An example of using the trained model to infer a dataset.
 * xml2coco.py
 
 Convert the yolo_style xml annotation to coco_style json annotation for object detection
+
+* llm_lora_infer.py
+
+merge lora weight to llm for inferring
