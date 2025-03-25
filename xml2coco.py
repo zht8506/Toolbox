@@ -106,7 +106,9 @@ if __name__ == '__main__':
     xml_list = np.sort(xml_list)
     np.random.seed(100)
     np.random.shuffle(xml_list)
- 
+
+    # 以一个比例随机划分train/val，也可以用预先设定好的划分
+    # Randomly split train/val, you can also use a pre-set split
     train_num = int(len(xml_list)*train_ratio)
     xml_list_train = xml_list[:train_num]
     xml_list_val = xml_list[train_num:]
