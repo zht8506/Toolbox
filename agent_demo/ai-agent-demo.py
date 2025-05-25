@@ -1,5 +1,6 @@
 # from https://gist.github.com/cradiator/3be43011060abb6869f4b41f0a9ce165
 # 【原来写一个 AI Agent 这么简单】 https://www.bilibili.com/video/BV1UMVKzEESL/?share_source=copy_web&vd_source=de9e397f0646c3eab70729a000c35008
+# 功能：管理test文件夹（需建立）下的文件
 
 #### main.py
 from pydantic_ai.models.gemini import GeminiModel
