@@ -1,5 +1,5 @@
 # from https://gist.github.com/cradiator/76629158bec2140368fa8ac1796f4814
-# 【原来写一个 AI Agent 这么简单】 https://www.bilibili.com/video/BV1UMVKzEESL/?share_source=copy_web&vd_source=de9e397f0646c3eab70729a000c35008
+# 【8分钟教会你写 MCP】 https://www.bilibili.com/video/BV1nyVDzaE1x/?share_source=copy_web&vd_source=de9e397f0646c3eab70729a000c35008
 
 # main.py
 from mcp.server.fastmcp import FastMCP
