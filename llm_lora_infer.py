@@ -1,5 +1,3 @@
-from huggingface_hub import snapshot_download
-
 from peft import PeftModel
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
